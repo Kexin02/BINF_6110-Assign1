@@ -24,39 +24,39 @@ The draft assembly will be compared to a reference genome for *Salmonella enteri
 Differences between the assembled genome and the reference genome, including single-nucleotide variants and small insertions or deletions, will be identified using bcftools (v1.23) based on the alignment results (Danecek et al., 2021). Variant calls and alignments will be visualized using Integrative Genomics Viewer to inspect read coverage, alignment quality, and regions of divergence (Robinson et al., 2011). Visualization will be used to assess assembly accuracy and to support interpretation of observed differences between the assembled genome and the reference.
 
 ## References
-Amarasinghe, S. L., Su, S., Dong, X., Zappia, L., Ritchie, M. E., & Gouil, Q. (2020). 
-Opportunities and challenges in long-read sequencing data analysis. 
-*Genome Biology, 21*(1), 30.       
-https://doi.org/10.1186/s13059-020-1935-5
+Amarasinghe, S. L., Su, S., Dong, X., Zappia, L., Ritchie, M. E., & Gouil, Q. (2020).   
+Opportunities and challenges in long-read sequencing data analysis.   
+*Genome Biology, 21*(1), 30.         
+https://doi.org/10.1186/s13059-020-1935-5  
 
-Bzikadze, A. V., Mikheenko, A., & Pevzner, P. A. (2022). 
-Fast and accurate mapping of long reads to complete genome assemblies with VerityMap. 
-*Genome Research, 32*(11–12), 2107–2118.     
-https://doi.org/10.1101/gr.276871.122
+Bzikadze, A. V., Mikheenko, A., & Pevzner, P. A. (2022).   
+Fast and accurate mapping of long reads to complete genome assemblies with VerityMap.   
+*Genome Research, 32*(11–12), 2107–2118.       
+https://doi.org/10.1101/gr.276871.122  
 
-Danecek, P., Bonfield, J. K., Liddle, J., Marshall, J., Ohan, V., Pollard, M. O., Whitwham, A., Keane, T., McCarthy, S. A., Davies, R. M., & Li, H. (2021). 
-Twelve years of SAMtools and BCFtools. 
-*GigaScience, 10*(2), giab008. 
-https://doi.org/10.1093/gigascience/giab008
+Danecek, P., Bonfield, J. K., Liddle, J., Marshall, J., Ohan, V., Pollard, M. O., Whitwham, A., Keane, T., McCarthy, S. A., Davies, R. M., & Li, H. (2021).   
+Twelve years of SAMtools and BCFtools.   
+*GigaScience, 10*(2), giab008.   
+https://doi.org/10.1093/gigascience/giab008  
 
-De Coster, W., & Rademakers, R. (2023). 
-NanoPack2: Population-scale evaluation of long-read sequencing data. *Bioinformatics, 39*(5), btad311. 
-https://doi.org/10.1093/bioinformatics/btad311
+De Coster, W., & Rademakers, R. (2023).   
+NanoPack2: Population-scale evaluation of long-read sequencing data. *Bioinformatics, 39*(5), btad311.   
+https://doi.org/10.1093/bioinformatics/btad311  
 
-Freeman, T. M., Wang, D., & Harris, J. (2020). 
-Genomic loci susceptible to systematic sequencing bias in clinical whole genomes. 
-*Genome Research, 30*(3), 415–426. 
-https://doi.org/10.1101/gr.255349.119
+Freeman, T. M., Wang, D., & Harris, J. (2020).   
+Genomic loci susceptible to systematic sequencing bias in clinical whole genomes.   
+*Genome Research, 30*(3), 415–426.   
+https://doi.org/10.1101/gr.255349.119  
 
-Kim, C., Pongpanich, M., & Porntaveetus, T. (2024). 
-Unraveling metagenomics through long-read sequencing: A comprehensive review. 
-*Journal of Translational Medicine, 22*(1), 111. 
-https://doi.org/10.1186/s12967-024-04917-1
+Kim, C., Pongpanich, M., & Porntaveetus, T. (2024).   
+Unraveling metagenomics through long-read sequencing: A comprehensive review.   
+*Journal of Translational Medicine, 22*(1), 111.   
+https://doi.org/10.1186/s12967-024-04917-1  
 
-Kolmogorov, M., Bickhart, D. M., Behsaz, B., Gurevich, A., Rayko, M., Shin, S. B., Kuhn, K., Yuan, J., Polevikov, E., Smith, T. P. L., & Pevzner, P. A. (2020). 
-metaFlye: Scalable long-read metagenome assembly using repeat graphs. 
-*Nature Methods, 17*(11), 1103–1110. 
-https://doi.org/10.1038/s41592-020-00971-x
+Kolmogorov, M., Bickhart, D. M., Behsaz, B., Gurevich, A., Rayko, M., Shin, S. B., Kuhn, K., Yuan, J., Polevikov, E., Smith, T. P. L., & Pevzner, P. A. (2020).   
+metaFlye: Scalable long-read metagenome assembly using repeat graphs.   
+*Nature Methods, 17*(11), 1103–1110.   
+https://doi.org/10.1038/s41592-020-00971-x  
 
 Li, C., Tyson, G. H., Hsu, C.-H., Harrison, L., Strain, E., Tran, T.-T., Tillman, G. E., Dessai, U., McDermott, P. F., & Zhao, S. (2021). 
 Long-Read Sequencing Reveals Evolution and Acquisition of Antimicrobial Resistance and Virulence Genes in Salmonella enterica. 
